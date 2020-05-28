@@ -1,7 +1,15 @@
-Implementing-of-Three-Phase-commit-protocol-in-a-Distributed-Operating-System
+
+  
+
+
+
 Tools Used:
 Pycharm 2017 3.3
 Python 3.4
+
+
+
+
 How to run the program?
 1.Download the Pycharm 2017 3.3 version and following the installer wizard and finish the installation.
 2.Download and unzip the folder into your Pycharm Projects folder following the path used for installation.
